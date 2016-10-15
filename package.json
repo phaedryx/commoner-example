@@ -1,0 +1,16 @@
+{
+  "name": "commoner",
+  "dependencies" : {
+    "babel-core": "6.x",
+    "babel-preset-es2015": "6.9.x",
+    "babel-preset-react": "6.11.x",
+    "jquery": "3.1.x",
+    "react": "15.3.x",
+    "react-dom": "15.3.x"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 6.3.0",
+    "yarn": ">= 0.15.x"
+  }
+}
