@@ -6,7 +6,7 @@ gem 'sqlite3'
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
 gem 'jbuilder', '~> 2.0'
-
+gem 'mini_racer'
 gem 'sprockets-commoner'
 
 group :development do
